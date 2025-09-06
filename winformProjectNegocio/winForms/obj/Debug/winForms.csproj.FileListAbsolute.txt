@@ -1,0 +1,9 @@
+C:\Users\marin\Documents\utn\PR3\Github\FormsProject\winformProjectNegocio\winForms\bin\Debug\winForms.exe.config
+C:\Users\marin\Documents\utn\PR3\Github\FormsProject\winformProjectNegocio\winForms\bin\Debug\winForms.exe
+C:\Users\marin\Documents\utn\PR3\Github\FormsProject\winformProjectNegocio\winForms\bin\Debug\winForms.pdb
+C:\Users\marin\Documents\utn\PR3\Github\FormsProject\winformProjectNegocio\winForms\obj\Debug\winForms.csproj.AssemblyReference.cache
+C:\Users\marin\Documents\utn\PR3\Github\FormsProject\winformProjectNegocio\winForms\obj\Debug\winForms.Properties.Resources.resources
+C:\Users\marin\Documents\utn\PR3\Github\FormsProject\winformProjectNegocio\winForms\obj\Debug\winForms.csproj.GenerateResource.cache
+C:\Users\marin\Documents\utn\PR3\Github\FormsProject\winformProjectNegocio\winForms\obj\Debug\winForms.csproj.CoreCompileInputs.cache
+C:\Users\marin\Documents\utn\PR3\Github\FormsProject\winformProjectNegocio\winForms\obj\Debug\winForms.exe
+C:\Users\marin\Documents\utn\PR3\Github\FormsProject\winformProjectNegocio\winForms\obj\Debug\winForms.pdb
