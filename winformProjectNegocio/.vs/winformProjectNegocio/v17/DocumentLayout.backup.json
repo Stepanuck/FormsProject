@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73AA677C-5FF5-4CFF-9B4B-27B75E34DB6C}|dominio\\dominio.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\formsproject\\winformprojectnegocio\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AA677C-5FF5-4CFF-9B4B-27B75E34DB6C}|dominio\\dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73AA677C-5FF5-4CFF-9B4B-27B75E34DB6C}|dominio\\dominio.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\formsproject\\winformprojectnegocio\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73AA677C-5FF5-4CFF-9B4B-27B75E34DB6C}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AA677C-5FF5-4CFF-9B4B-27B75E34DB6C}|dominio\\dominio.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\formsproject\\winformprojectnegocio\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AA677C-5FF5-4CFF-9B4B-27B75E34DB6C}|dominio\\dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CB9EBD2-D943-4622-AC5A-8C2E2BE342B3}|winForms\\winForms.csproj|C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -23,19 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\dominio\\Categoria.cs*",
+              "RelativeToolTip": "dominio\\Categoria.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:40:48.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\dominio\\Marca.cs*",
+              "RelativeToolTip": "dominio\\Marca.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:40:14.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\dominio\\Articulo.cs",
               "RelativeDocumentMoniker": "dominio\\Articulo.cs",
-              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\dominio\\Articulo.cs",
-              "RelativeToolTip": "dominio\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\dominio\\Articulo.cs*",
+              "RelativeToolTip": "dominio\\Articulo.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T00:11:12.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\winForms\\Form1.cs",
               "RelativeDocumentMoniker": "winForms\\Form1.cs",
