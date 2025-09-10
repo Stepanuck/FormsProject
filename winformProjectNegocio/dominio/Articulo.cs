@@ -12,15 +12,10 @@ namespace dominio
         public string Codigo { get; set; }
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
-        public Marca Marca { get; set; }
-        public Categoria Categoria { get; set; }
+        public Marca Marca { get; set; } = new Marca(); 
+        public Categoria Categoria { get; set; } = new Categoria();
         public List<Imagen> Imagenes { get; set; } = new List<Imagen>();
         public decimal Precio { get; set; }
-        public Articulo()
-        {
-            Marca = new Marca();
-            Categoria = new Categoria();
-        }
         public override string ToString()
         {
             return Nombre;
